@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">buttons</string>
+    <string name="first_button">First Button</string>
+    <string name="second_button">Second Button</string>
+    <string name="third_button">Third Button</string>
+    <string name="fourth_button">Fourth Button</string>
+    <string name="fifth_button">Fifth Button</string>
+    <string name="sixth_button">Sixth Button</string>
+    <string name="concern_letter">Concern Letter</string>
+    <string name="deploma_study">Deploma Study</string>
+    <string name="final_defense">Final Defense</string>
+    <string name="internship">Internship</string>
+    <string name="late_registration">Late Registration</string>
+    <string name="semester_drop">Semester Drop</string>
+    <string name="internship_letter">Internship Letter</string>
+    <string name="concern_letter_testimonial">Concern Letter/Testimonial</string>
+    <string name="application_for_diploma">Application for Diploma</string>
+
+</resources>
